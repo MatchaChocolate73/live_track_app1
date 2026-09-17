@@ -32,7 +32,7 @@ dependencies:
 
   # Bunyikan HP walau silent
   audioplayers: ^6.1.0
-  vibration: ^2.0.1
+  vibration: ^3.2.1
   flutter_local_notifications: ^18.0.1
 
   # Home screen widget
